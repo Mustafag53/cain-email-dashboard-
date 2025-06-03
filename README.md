@@ -1,2 +1,3 @@
-# cain-email-dashboard-
-Email campaign dashboard for Cain book marketing
+# Cain Email Dashboard
+
+Instructions to run the backend and frontend are inside.
